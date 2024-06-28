@@ -30,6 +30,6 @@ def countdown(h, m, s):
         # Reduces total time by one second
         total_seconds -= 1
  
-    print("📢Bzzz! TIME OVER!⏱")
+    print("📢Bzzz! TIME OVER!⏱⏰")
 
 countdown(int(h), int(m), int(s))
